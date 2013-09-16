@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/skim/workspace/unow-web/app'
+let g:netrw_dirhist_2='/Users/skim/workspace/unow-web/app/models'
+let g:netrw_dirhist_3='/Users/skim/workspace/unow-web/app/models/asset'
+let g:netrw_dirhist_4='/Users/skim/workspace/unow-web'
+let g:netrw_dirhist_5='/Users/skim/workspace/unow-web/app'
+let g:netrw_dirhist_6='/Users/skim/workspace/unow-web/app/views'
+let g:netrw_dirhist_7='/Users/skim/workspace/unow-web/app/views/assets'
+let g:netrw_dirhist_8='/Users/skim/.vim'
+let g:netrw_dirhist_9='/Users/skim/.vim/bundle'

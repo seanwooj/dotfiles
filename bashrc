@@ -11,5 +11,5 @@ alias migrate='rake db:migrate; rake db:migrate RAILS_ENV=test'
 alias ll='ls -l'
 set editing-mode vi
 
-source ~/liquidprompt/liquidprompt
+source ~/dotfiles/liquidprompt/liquidprompt
 
